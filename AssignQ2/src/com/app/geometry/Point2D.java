@@ -1,6 +1,7 @@
 package com.app.geometry;
 
-public class Point2D {
+public class Point2D
+{
     private double x;
     private double y;
 
