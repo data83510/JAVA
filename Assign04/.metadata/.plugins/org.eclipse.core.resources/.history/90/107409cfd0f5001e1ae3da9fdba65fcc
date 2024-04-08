@@ -1,0 +1,14 @@
+package com.sunbeam.tester;
+
+import java.util.Scanner;
+import com.sunbeam.fruits.*;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
